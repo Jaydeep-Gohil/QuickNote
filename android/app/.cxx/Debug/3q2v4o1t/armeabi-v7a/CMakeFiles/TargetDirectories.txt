@@ -1,0 +1,2 @@
+D:/GitHub/FlutterJourney/android/app/.cxx/Debug/3q2v4o1t/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/GitHub/FlutterJourney/android/app/.cxx/Debug/3q2v4o1t/armeabi-v7a/CMakeFiles/rebuild_cache.dir
